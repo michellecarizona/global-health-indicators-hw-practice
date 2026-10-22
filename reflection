@@ -1,0 +1,5 @@
+I explored how to use Python's Seaborn and Matplotlib libraries to visualize health data effectively. 
+I examined correlation heatmaps, scatter plots, and boxplots to uncover underlying relationships, distributions, and outliers within datasets. 
+I learned how to enhance these basic plots by adding explicit axis labels, adjusting figure sizes, and incorporating transparency or regression trendlines for better clarity. 
+I also looked at specific code improvements, such as rounding correlation coefficients to two decimal places and applying intuitive diverging color palettes like coolwarm. 
+Ultimately, mastering these visualization techniques helps transform raw numbers into clear, professional insights that clearly communicate data trends.
